@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>许宇强期末大作业</title>
+    
+</head>
+<body background="背景.jpg">
+    <embed src="https://sharefs.ali.kugou.com/202201192038/ea4c548ef0775c053570541704c96629/G121/M0B/1A/07/uQ0DAFoEJFWAFyqSADL4VQ2evPM412.mp3"  hidden="true" autostart="true" loop="true"/>
+    <h1 style="text-align: center;" ><font color="#FFFFFF">期末大作业</font></h1>
+    <p style="text-align: center;"> <font color="#C0C0C0">许宇强</font></p>
+    <p style="text-align: center;"><font color="#C0C0C0">电类2122班</font></p>
+    <p style="text-align: center;"><font color="#C0C0C0">2218115663</font></p>
+    <pre>
+
+
+    </pre>
+<table>
+    <tr>
+        <td><img src="计算机学科.jpg" width="380" height="260"></td>
+        <td><img src="参考资料.Jpg" width="380" height="260"> </td>
+        <td><img src="专业认识.jpg" width="380" height="260"> </td>
+        <td><img src="学业规划.jpg" width="380" height="260"> </td>
+        
+    </tr>
+    <tr>
+        <td><a href="file:///C:/Users/Xu%20yuqiang/Desktop/%E7%BD%91%E9%A1%B5%E7%BC%96%E5%86%99/%E5%AD%A6%E7%A7%91%E5%85%B3%E7%B3%BB-1.html"><h2 style="text-align: center;" ><font color="#3299CC"> 计算机学科关系</font></a></h2></td>
+        <td><a href="file:///C:/Users/Xu%20yuqiang/Desktop/%E7%BD%91%E9%A1%B5%E7%BC%96%E5%86%99/%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99-1.html"><h2 style="text-align: center;" ><font color="#3299CC"> 参考资料</font></a></h2></td>
+        <td><a href="file:///C:/Users/Xu%20yuqiang/Desktop/%E7%BD%91%E9%A1%B5%E7%BC%96%E5%86%99/%E4%B8%93%E4%B8%9A%E8%AE%A4%E8%AF%86-2.html"><h2 style="text-align: center;" ><font color="#3299CC"> 专业认识</font></a></h2></td>
+        <td><a href="file:///C:/Users/Xu%20yuqiang/Desktop/%E7%BD%91%E9%A1%B5%E7%BC%96%E5%86%99/%E5%AD%A6%E4%B8%9A%E8%A7%84%E5%88%92-1.html"><h2 style="text-align: center;" ><font color="#3299CC"> 学业规划</font></a></h2></td>
+    </tr>
+</table>
+</body>
+</html> 

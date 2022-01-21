@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="wi3dth=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body background="背景.jpg">
+    <table border="5" width="100%" >
+    <th><font size="4"color="#FFFFFF"><b>本科生</b></font>
+    <td><font color="#FFFFFF">保持各科成绩中上水平</font></td>
+    <td><font color="#FFFFFF">补齐Python，C语言，java的知识</font></td>
+    <td><font color="#FFFFFF">学会吉他和游泳</font></td>
+    <td><font color="#FFFFFF">多去听一些自己感兴趣的通识课和讲座</font></td>
+    <td><font color="#FFFFFF">学好英文，多练口语和听力</font></td>
+    <td><font color="#FFFFFF">多参加课外实践活动</font></td>
+    </th>
+    <th><font size="4" color="#FFFFFF"><b>硕士</b></font>
+    <td><font color="#FFFFFF">考雅思出国或者去香港</font></td>
+    <td><font color="#FFFFFF">找公司实践，累积工作经验</font></td>
+    <td><font color="#FFFFFF">毕业后创业或就业</font></td>
+    </th>
+    <th><font size="4" color="#FFFFFF"><b>总结</b></font></th>
+    <td><font color="#FFFFFF">不打算争取保研资格，希望可以全面发展，而不仅仅是成绩优秀</font></td>      
+    </table>
+</body>
+</html>
